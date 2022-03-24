@@ -1,0 +1,12 @@
+{
+    "name": "Basic mailer",
+    "module": "basic-mailer",
+    "description": "Basic mailer module which utilizes PHPMailer to ensure deliverability.",
+    "author": "PBCMS developers",
+    "version": "1.0.0",
+    "repository": "https://github.com/pbcms/basic-mailer",
+    "license": "GPLv3",
+    "listed-in": [
+        "https://raw.githubusercontent.com/pbcms/updates/main/modules/stable.json"
+    ]
+}
